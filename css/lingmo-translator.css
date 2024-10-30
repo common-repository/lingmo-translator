@@ -1,0 +1,25 @@
+.lingmo_flags_dropdown {
+  height: 200px;
+}
+option.lingmo_flag {
+  background-repeat: no-repeat !important;
+  padding-left: 20px;
+}
+.lingmo_flag .ui-icon {
+  background-position: left top;
+}
+.lingmo_flag_icon {
+  width: 24px;
+  height: 18px;
+}
+a.lingmo_lang_flag {
+  padding: 0;
+  margin: 0 4px 4px 0;
+  display: inline-block;
+}
+a.lingmo_lang_flag img {
+  border: 1px solid #999;
+}
+.lingmo_revert_original {
+  text-align: left;
+}

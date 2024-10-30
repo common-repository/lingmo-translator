@@ -1,0 +1,476 @@
+{
+    "data": [
+        {
+            "LanguageId": "ar-SA",
+            "LanguageName": "Arabic",
+            "SentenceSeparator": "۔",
+            "TextDirection": "RTL",
+            "TextOnly": true,
+            "ImgName": "arabic"
+        }, {
+            "LanguageId": "az-AZ",
+            "LanguageName": "Azeri",
+            "SentenceSeparator": ".",
+            "TextDirection": "RTL",
+            "TextOnly": true,
+            "ImgName": "azeri"
+        }, {
+            "LanguageId": "be-BY",
+            "LanguageName": "Belarusian",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "belarusian"
+        }, {
+            "LanguageId": "bn-BD",
+            "LanguageName": "Bengali",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "bengali"
+        }, {
+            "LanguageId": "bs-BA",
+            "LanguageName": "Bosnian",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "bosnian"
+        }, {
+            "LanguageId": "bg-BG",
+            "LanguageName": "Bulgarian",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "bulgarian"
+        },
+
+        {
+            "LanguageId": "ca-ES",
+            "LanguageName": "Catalan",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "catalan"
+        },
+        {
+            "LanguageId": "hr-HR",
+            "LanguageName": "Croatian",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "croatian"
+        },
+
+        {
+            "LanguageId": "zh-CN",
+            "LanguageName": "Chinese",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "chinese"
+        },
+        {
+            "LanguageId": "cs-CZ",
+            "LanguageName": "Czech",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "czech"
+        }, 
+        {
+            "LanguageId": "da-DK",
+            "LanguageName": "Danish",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "danish"
+        },
+        {
+            "LanguageId": "nl-NL",
+            "LanguageName": "Dutch",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": false,
+            "ImgName": "dutch"
+        }, {
+            "LanguageId": "en-AU",
+            "LanguageName": "English",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": false,
+            "ImgName": "english"
+        }, {
+            "LanguageId": "et-EE",
+            "LanguageName": "Estonian",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "estonian"
+        }, {
+            "LanguageId": "fr-FR",
+            "LanguageName": "French",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": false,
+            "ImgName": "french"
+        }, {
+            "LanguageId": "fi-FI",
+            "LanguageName": "Finnish",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "finnish"
+        },
+        {
+            "LanguageId": "fil-PH",
+            "LanguageName": "Filipino",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "filipino"
+        },
+        {
+            "LanguageId": "gl-ES",
+            "LanguageName": "Galician",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "galician"
+        },
+        {
+            "LanguageId": "ka-GE",
+            "LanguageName": "Georgian",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "georgian"
+        }, {
+            "LanguageId": "de-DE",
+            "LanguageName": "German",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": false,
+            "ImgName": "german"
+        }, {
+            "LanguageId": "el-GR",
+            "LanguageName": "Greek",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "greek"
+        }, {
+            "LanguageId": "gu-IN",
+            "LanguageName": "Gujarati",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "gujarati"
+        }, {
+            "LanguageId": "ha-NG",
+            "LanguageName": "Hausa",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "hausa"
+        }, {
+            "LanguageId": "he-IL",
+            "LanguageName": "Hebrew",
+            "SentenceSeparator": ".",
+            "TextDirection": "RTL",
+            "TextOnly": true,
+            "ImgName": "hebrew"
+        }, {
+            "LanguageId": "hi-IN",
+            "LanguageName": "Hindi",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "hindi"
+        },
+        {
+            "LanguageId": "hu-HU",
+            "LanguageName": "Hungarian",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "hungarian"
+        },
+        {
+            "LanguageId": "xh-ZA",
+            "LanguageName": "isiXhosa",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "isixhosa"
+        }, {
+            "LanguageId": "id-ID",
+            "LanguageName": "Indonesian",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "indonesian"
+        },
+        {
+            "LanguageId": "it-IT",
+            "LanguageName": "Italian",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": false,
+            "ImgName": "italian"
+        }, {
+            "LanguageId": "ja-JP",
+            "LanguageName": "Japanese",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": false,
+            "ImgName": "japanese"
+        }, {
+            "LanguageId": "kn-IN",
+            "LanguageName": "Kannada",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "kannada"
+        }, {
+            "LanguageId": "km-KH",
+            "LanguageName": "Khmer",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "khmer"
+        }, {
+            "LanguageId": "ko-KR",
+            "LanguageName": "Korean",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "korean"
+        }, {
+            "LanguageId": "lo-LA",
+            "LanguageName": "Lao",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "lao"
+        }, {
+            "LanguageId": "lv-LV",
+            "LanguageName": "Latvian",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "latvian"
+        }, {
+            "LanguageId": "lt-LT",
+            "LanguageName": "Lithuanian",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "lithuanian"
+        },
+        {
+            "LanguageId": "mk-MK",
+            "LanguageName": "Macedonian",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "macedonian"
+        }, {
+            "LanguageId": "ml-IN",
+            "LanguageName": "Malayalam",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "malayalam"
+        }, {
+            "LanguageId": "ms-MY",
+            "LanguageName": "Malay",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "malay"
+        },
+        {
+            "LanguageId": "mi-NZ",
+            "LanguageName": "Maori",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "maori"
+        }, {
+            "LanguageId": "mr-IN",
+            "LanguageName": "Marathi",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "marathi"
+        }, {
+            "LanguageId": "mn-MN",
+            "LanguageName": "Mongolian",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "mongolian"
+        }, {
+            "LanguageId": "ne-NP",
+            "LanguageName": "Nepali",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "nepali"
+        }, {
+            "LanguageId": "nn-NO",
+            "LanguageName": "Norwegian",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "norwegian"
+        },
+        {
+            "LanguageId": "ps-AF",
+            "LanguageName": "Pashto",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "pashto"
+        }, {
+            "LanguageId": "pl-PL",
+            "LanguageName": "Polish",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "polish"
+        },
+        {
+            "LanguageId": "fa-IR",
+            "LanguageName": "Persian",
+            "SentenceSeparator": ".",
+            "TextDirection": "RTL",
+            "TextOnly": true,
+            "ImgName": "persian"
+        }, {
+            "LanguageId": "pt-BR",
+            "LanguageName": "Portuguese",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": false,
+            "ImgName": "portuguese"
+        }, {
+            "LanguageId": "pa-IN",
+            "LanguageName": "Punjabi",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "punjabi"
+        }, {
+            "LanguageId": "ro-RO",
+            "LanguageName": "Romanian",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "romanian"
+        },
+        {
+            "LanguageId": "ru-RU",
+            "LanguageName": "Russian",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "russian"
+        },
+        {
+            "LanguageId": "sr-BA",
+            "LanguageName": "Serbian",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "serbian"
+        }, {
+            "LanguageId": "si-LK",
+            "LanguageName": "Sinhala",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "sinhala"
+        }, {
+            "LanguageId": "es-ES",
+            "LanguageName": "Spanish",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": false,
+            "ImgName": "spanish"
+        }, {
+            "LanguageId": "sv-SE",
+            "LanguageName": "Swedish",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": false,
+            "ImgName": "swedish"
+        }, {
+            "LanguageId": "sk-SK",
+            "LanguageName": "Slovak",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "slovak"
+        },
+        {
+            "LanguageId": "sl-SI",
+            "LanguageName": "Slovenian",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "slovenian"
+        },
+        {
+            "LanguageId": "ta-IN",
+            "LanguageName": "Tamil",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "tamil"
+        }, {
+            "LanguageId": "te-IN",
+            "LanguageName": "Telugu",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "telugu"
+        }, {
+            "LanguageId": "tr-TR",
+            "LanguageName": "Turkish",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": false,
+            "ImgName": "turkish"
+        }, {
+            "LanguageId": "th-TH",
+            "LanguageName": "Thai",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "thai"
+        },
+        {
+            "LanguageId": "uk-UA",
+            "LanguageName": "Ukrainian",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "ukrainian"
+        }, {
+            "LanguageId": "ur-PK",
+            "LanguageName": "Urdu",
+            "SentenceSeparator": ".",
+            "TextDirection": "RTL",
+            "TextOnly": true,
+            "ImgName": "urdu"
+        }, {
+            "LanguageId": "vi-VN",
+            "LanguageName": "Vietnamese",
+            "SentenceSeparator": ".",
+            "TextDirection": "LTR",
+            "TextOnly": true,
+            "ImgName": "vietnamese"
+        }
+    ]
+}
